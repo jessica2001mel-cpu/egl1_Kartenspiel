@@ -11,11 +11,11 @@
 - Kartenbox
   
 **Aufteilung:**
-1x Deckkarte 
-9x Zahlenkarten (2 bis 10) (Herz, Karo, Kreuz, Pik) -> insgesamt 36 Zahlenkarten 
-12x Bildkarten (jeweils 4x Bube, Dame und König) 
-4x Asse 
-2x Joker 
+- 1x Deckkarte 
+- 9x Zahlenkarten (2 bis 10) (Herz, Karo, Kreuz, Pik) -> insgesamt 36 Zahlenkarten 
+- 12x Bildkarten (jeweils 4x Bube, Dame und König) 
+ -4x Asse 
+ -2x Joker 
 
 **Animation:** 
 Illustrationsstil im fineline / handdrawn style 
