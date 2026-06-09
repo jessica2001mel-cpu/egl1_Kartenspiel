@@ -24,21 +24,17 @@ Illustrationsstil im fineline / handdrawn style
 - bei Spielen wie Arschloch oder Lügen, würde daher die Animation auch während dem Spielen funktionieren und nicht nur als Daumenkino, sondern nebeneinander sichtbar
 
 *Symbole:*
-- **Herz** (Liebe, Gefühle, Beziehung) = Zwei Menschen kommen aufeinander zu und küssen sich (Rosen die Wachsen im Hintergrund)
-- **Pik** (Macht, Kampf, Schicksal) = Sanduhr die sich dreht, Schwert das gezogen wird
+- **Herz** (Liebe, Gefühle, Beziehung) = Zwei Menschen kommen aufeinander zu und küssen sich oder Herz wird pro Karte immer größer bzw. mehr. 
+- **Pik** (Macht, Kampf, Schicksal) = Sanduhr die sich dreht (über die Karte drüber) 
 - **Karo** (Reichtum, Erfolg) = Münzen die über die Karte fallen
 - **Kreuz** (Glück, Natur, Wachstum) = Pflanze wächst von klein zu groß 
 
-
 **Aktueller Stand:**
-Rahmenbedingungen des Kartenspieles festlegen
-Inspirationssuche
-Grundbausteine für das Kartenspiel gestalten (gleichen Elemente)
-Farbschema, Typografie, Symbole
+Bildkarten umgesetzt (Dame, König, Bube, Joker) und Ass 
+Illustration der König selber auf Papier umgesetzt und weitere dann von der KI generieren lassen 
 
 **noch kommende to do's:**
 Animationsinhalte auf Kartendeck
-Bildkarten gestalten (Bube, Dame, König & Joker)
 Verpackungsdesign
 Kartenanimation zur Veranschaulichung mit After Effects
 Kartenspiel Fotoshooting
