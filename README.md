@@ -24,7 +24,7 @@ Illustrationsstil im fineline / handdrawn style
 - bei Spielen wie Arschloch oder Lügen, würde daher die Animation auch während dem Spielen funktionieren und nicht nur als Daumenkino, sondern nebeneinander sichtbar
 
 ![Karte Dame]([pfad/zum/bild.png](Bilder/Dame.png)  
-![Kartensammlung]([pfad/zum/bild.png](Bilder/Dame.png)  
+![Kartensammlung]([Bilder/Sammlung Karten.png](Bilder/Sammlung Karten.png)  
 
 
 *Symbole:*
