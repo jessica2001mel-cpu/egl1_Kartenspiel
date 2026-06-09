@@ -25,8 +25,7 @@ Illustrationsstil im fineline / handdrawn style
 
 <img width="554" height="1041" alt="Sammlung Karten" src="https://github.com/user-attachments/assets/4bf0d0e6-fc74-44e9-8b58-f9edb5ddb8d6" />
 
-
-
+<img width="676" height="1007" alt="Dame" src="https://github.com/user-attachments/assets/0c65e173-e3fc-4324-81ce-ac6e8b5a37cd" />
 
 *Symbole:*
 - **Herz** (Liebe, Gefühle, Beziehung) = Zwei Menschen kommen aufeinander zu und küssen sich oder Herz wird pro Karte immer größer bzw. mehr. 
