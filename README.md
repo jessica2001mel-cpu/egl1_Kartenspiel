@@ -23,8 +23,9 @@ Illustrationsstil im fineline / handdrawn style
 - Bildkarten haben Hintergrundanimationen (und vielleicht Bewegungen in Figuren) 
 - bei Spielen wie Arschloch oder Lügen, würde daher die Animation auch während dem Spielen funktionieren und nicht nur als Daumenkino, sondern nebeneinander sichtbar
 
-![Karte Dame]([pfad/zum/bild.png](Bilder/Dame.png)  
-![Kartensammlung]([Bilder/Sammlung Karten.png](Bilder/Sammlung Karten.png)  
+<img width="554" height="1041" alt="Sammlung Karten" src="https://github.com/user-attachments/assets/4bf0d0e6-fc74-44e9-8b58-f9edb5ddb8d6" />
+
+
 
 
 *Symbole:*
