@@ -23,6 +23,8 @@ Illustrationsstil im fineline / handdrawn style
 - Bildkarten haben Hintergrundanimationen (und vielleicht Bewegungen in Figuren) 
 - bei Spielen wie Arschloch oder Lügen, würde daher die Animation auch während dem Spielen funktionieren und nicht nur als Daumenkino, sondern nebeneinander sichtbar
 
+![Dame]Dame
+
 *Symbole:*
 - **Herz** (Liebe, Gefühle, Beziehung) = Zwei Menschen kommen aufeinander zu und küssen sich oder Herz wird pro Karte immer größer bzw. mehr. 
 - **Pik** (Macht, Kampf, Schicksal) = Sanduhr die sich dreht (über die Karte drüber) 
