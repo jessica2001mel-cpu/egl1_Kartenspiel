@@ -15,7 +15,7 @@
 - 9x Zahlenkarten (2 bis 10) (Herz, Karo, Kreuz, Pik) -> insgesamt 36 Zahlenkarten 
 - 12x Bildkarten (jeweils 4x Bube, Dame und König) 
  -4x Asse 
- -2x Joker 
+ -2x Joker
 
 **Animation:** 
 Illustrationsstil im fineline / handdrawn style 
@@ -27,7 +27,14 @@ Illustrationsstil im fineline / handdrawn style
 - **Herz** (Liebe, Gefühle, Beziehung) = Zwei Menschen kommen aufeinander zu und küssen sich oder Herz wird pro Karte immer größer bzw. mehr. 
 - **Pik** (Macht, Kampf, Schicksal) = Sanduhr die sich dreht (über die Karte drüber) 
 - **Karo** (Reichtum, Erfolg) = Münzen die über die Karte fallen
-- **Kreuz** (Glück, Natur, Wachstum) = Pflanze wächst von klein zu groß 
+- **Kreuz** (Glück, Natur, Wachstum) = Pflanze wächst von klein zu groß
+
+**Bildkarten:**
+<img width="545" height="1007" alt="Bildkarten_gesamt" src="https://github.com/user-attachments/assets/575cd257-dc3a-497b-b8a8-4b9d26ee6944" />
+
+**Sammlung Zahlenkarten ohne Illu:**
+<img width="1361" height="1007" alt="Sammlung Karten_ohne Illu" src="https://github.com/user-attachments/assets/fd5c7a3e-f9cc-4618-a9a6-8ad657797e88" />
+
 
 **Aktueller Stand:**
 Zahlenkarten Basisdesign fertig 
