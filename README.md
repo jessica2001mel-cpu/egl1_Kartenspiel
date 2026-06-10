@@ -23,11 +23,6 @@ Illustrationsstil im fineline / handdrawn style
 - Bildkarten haben Hintergrundanimationen (und vielleicht Bewegungen in Figuren) 
 - bei Spielen wie Arschloch oder Lügen, würde daher die Animation auch während dem Spielen funktionieren und nicht nur als Daumenkino, sondern nebeneinander sichtbar
 
-![Uploading Bildkarten_gesamt.png…]()
-
-![Uploading Sammlung Karten_ohne Illu.png…]()
-
-
 *Symbole:*
 - **Herz** (Liebe, Gefühle, Beziehung) = Zwei Menschen kommen aufeinander zu und küssen sich oder Herz wird pro Karte immer größer bzw. mehr. 
 - **Pik** (Macht, Kampf, Schicksal) = Sanduhr die sich dreht (über die Karte drüber) 
@@ -35,8 +30,8 @@ Illustrationsstil im fineline / handdrawn style
 - **Kreuz** (Glück, Natur, Wachstum) = Pflanze wächst von klein zu groß 
 
 **Aktueller Stand:**
-Bildkarten umgesetzt (Dame, König, Bube, Joker) und Ass 
-Illustration der König selber auf Papier umgesetzt und weitere dann von der KI generieren lassen 
+Zahlenkarten Basisdesign fertig 
+Überarbeitung Joker Karten (nur 3, da sonst Deck zu groß) 
 
 **noch kommende to do's:**
 Animationsinhalte auf Kartendeck
