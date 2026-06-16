@@ -40,13 +40,15 @@ Illustrationsstil im fineline / handdrawn style
 
 **Aktueller Stand:**
 Zahlenkarten Basisdesign fertig 
-Überarbeitung Joker Karten (nur 3, da sonst Deck zu groß) 
+Überarbeitung Joker Karten (nur 3, da sonst Deck zu groß)
+Korrektur an Zahlenlayout 
+Zahlendeck Herz fertig 
 
 **noch kommende to do's:**
-Animationsinhalte auf Kartendeck
+restliche Animationsinhalte auf Kartendeck
+Rückseite Karten
 Verpackungsdesign
-Kartenanimation zur Veranschaulichung mit After Effects
-Kartenspiel Fotoshooting
+(Kartenanimation zur Veranschaulichung mit After Effects)
 
 
 
