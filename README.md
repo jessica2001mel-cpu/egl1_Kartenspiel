@@ -34,18 +34,17 @@ Illustrationsstil im fineline / handdrawn style
 
 
 **Sammlung Zahlenkarten (aktueller Stand):**
-<img width="7945" height="5899" alt="Kartendesign_EGL Projekt 2-57" src="https://github.com/user-attachments/assets/fcd5ff7e-5622-49bf-8168-35e019edb557" />
-
+<img width="7945" height="5899" alt="Kartendesign_EGL Projekt 2-57" src="https://github.com/user-attachments/assets/fce85ace-bb37-468d-bbf1-7f1ac1536366" />
 
 
 **Aktueller Stand:**
 Zahlenkarten Basisdesign fertig 
 Überarbeitung Joker Karten (nur 3, da sonst Deck zu groß)
 Korrektur an Zahlenlayout 
-Zahlendeck Herz fertig 
+Zahlendeck Herz & Pik fertig 
 
 **noch kommende to do's:**
-restliche Animationsinhalte auf Kartendeck
+restliche Animationsinhalte auf Kartendeck (Karo & Kreuz) 
 Rückseite Karten
 Verpackungsdesign
 (Kartenanimation zur Veranschaulichung mit After Effects)
