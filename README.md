@@ -30,10 +30,12 @@ Illustrationsstil im fineline / handdrawn style
 - **Kreuz** (Glück, Natur, Wachstum) = Pflanze wächst von klein zu groß
 
 **Bildkarten:**
-<img width="545" height="1007" alt="Bildkarten_gesamt" src="https://github.com/user-attachments/assets/575cd257-dc3a-497b-b8a8-4b9d26ee6944" />
+<img width="3749" height="7014" alt="Kartendesign_EGL Projekt 2-56" src="https://github.com/user-attachments/assets/a5bca6f4-e903-4c5d-a3b6-1e7766bed32c" />
 
-**Sammlung Zahlenkarten ohne Illu:**
-<img width="1361" height="1007" alt="Sammlung Karten_ohne Illu" src="https://github.com/user-attachments/assets/fd5c7a3e-f9cc-4618-a9a6-8ad657797e88" />
+
+**Sammlung Zahlenkarten (aktueller Stand):**
+<img width="7945" height="5899" alt="Kartendesign_EGL Projekt 2-57" src="https://github.com/user-attachments/assets/fcd5ff7e-5622-49bf-8168-35e019edb557" />
+
 
 
 **Aktueller Stand:**
