@@ -34,7 +34,8 @@ Illustrationsstil im fineline / handdrawn style
 
 
 **Sammlung Zahlenkarten (aktueller Stand):**
-<img width="7945" height="5899" alt="Kartendesign_EGL Projekt 2-57" src="https://github.com/user-attachments/assets/fce85ace-bb37-468d-bbf1-7f1ac1536366" />
+<img width="7945" height="5899" alt="Kartendesign_EGL Projekt 2-57" src="https://github.com/user-attachments/assets/75765d8b-1843-41ab-9c65-074ace7138c5" />
+
 
 
 **Aktueller Stand:**
