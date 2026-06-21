@@ -39,7 +39,8 @@ Illustrationsstil im fineline / handdrawn style
 <img width="938" height="1288" alt="Kartendesign_EGL Rückseite" src="https://github.com/user-attachments/assets/891d38d5-8b82-401e-aa93-838d73209c61" />
 
 **Verpackungsdesign**
-<img width="2067" height="2445" alt="Verpackungsgestaltung_DRUCK" src="https://github.com/user-attachments/assets/b189d494-e4d5-47a6-9a26-1b6356ecd75a" />
+<img width="2067" height="2445" alt="Verpackungsgestaltung_DRUCK" src="https://github.com/user-attachments/assets/d69a8c3a-28d4-4a14-9675-a6810973104d" />
+
 
 
 
