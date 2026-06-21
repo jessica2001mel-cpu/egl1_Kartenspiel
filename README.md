@@ -1,4 +1,4 @@
-# egl1_Kartenspiel
+# egl1_Kartenspiel: THE DECK OF FOUR TALES
 
 **Gestaltung eines klassischen Kartenspieles mit animierten Effekten (Daumenkino / stop motion style)**
 
@@ -38,16 +38,21 @@ Illustrationsstil im fineline / handdrawn style
 **Rückseite:**
 <img width="938" height="1288" alt="Kartendesign_EGL Rückseite" src="https://github.com/user-attachments/assets/891d38d5-8b82-401e-aa93-838d73209c61" />
 
+**Verpackungsdesign**
+<img width="2067" height="2445" alt="Verpackungsdesign" src="https://github.com/user-attachments/assets/1daf0619-7963-4ce2-8f24-ea170ffa9267" />
+
+
 **Aktueller Stand:**
 Zahlenkarten Basisdesign fertig 
 Überarbeitung Joker Karten (nur 3, da sonst Deck zu groß)
 Korrektur an Zahlenlayout 
 Zahlendeck Animationen fertig 
 Rückseite Karten
+Verpackungsdesign
 
 **noch kommende to do's:**
-Verpackungsdesign
-(Kartenanimation zur Veranschaulichung mit After Effects)
+Kartenanimation als Video 
+Fotoshooting von Kartenspiel 
 
 
 
