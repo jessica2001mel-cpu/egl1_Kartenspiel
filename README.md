@@ -44,12 +44,7 @@ THE DECK OF FOUR TALES: Jedes einzelen Symbol hat eine eigene Geschichte
 <img width="2067" height="2445" alt="Verpackungsgestaltung_DRUCK" src="https://github.com/user-attachments/assets/d69a8c3a-28d4-4a14-9675-a6810973104d" />
 
 **Aktueller Stand:**
-Zahlenkarten Basisdesign fertig 
-Überarbeitung Joker Karten (nur 3, da sonst Deck zu groß)
-Korrektur an Zahlenlayout 
-Zahlendeck Animationen fertig 
-Rückseite Karten
-Verpackungsdesign
+Warten auf Bestellung 
 
 **noch kommende to do's:**
 Kartenanimation als Video 
