@@ -20,14 +20,16 @@
 **Animation:** 
 Illustrationsstil im fineline / handdrawn style 
 - Animation wird aufgeteilt in die verschiedenen Symbole (Herz, Karo, Kreuz und Pik)
-- Bildkarten haben Hintergrundanimationen (und vielleicht Bewegungen in Figuren) 
-- bei Spielen wie Arschloch oder Lügen, würde daher die Animation auch während dem Spielen funktionieren und nicht nur als Daumenkino, sondern nebeneinander sichtbar
+- Karten können in der richtigen Reihenfolge wie bei einem Daumenspiel die Animation bewegen 
 
 *Symbole:*
-- **Herz**  = Zwei Menschen kommen aufeinander zu und küssen sich oder Herz 
+- **Herz**  = Zwei Menschen kommen aufeinander zu und küssen sich Herz 
 - **Pik**  = Sanduhr die sich dreht  
 - **Karo**  = Schatztruhe geht auf 
-- **Kreuz** = Zwei Schwerter kreuzen sich 
+- **Kreuz** = Zwei Schwerter kreuzen sich
+
+*Bedeutung:*
+THE DECK OF FOUR TALES: Jedes einzelen Symbol hat eine eigene Geschichte
 
 **Bildkarten:**
 <img width="3749" height="7014" alt="Kartendesign_EGL Projekt 2-56" src="https://github.com/user-attachments/assets/a5bca6f4-e903-4c5d-a3b6-1e7766bed32c" />
@@ -40,9 +42,6 @@ Illustrationsstil im fineline / handdrawn style
 
 **Verpackungsdesign**
 <img width="2067" height="2445" alt="Verpackungsgestaltung_DRUCK" src="https://github.com/user-attachments/assets/d69a8c3a-28d4-4a14-9675-a6810973104d" />
-
-
-
 
 **Aktueller Stand:**
 Zahlenkarten Basisdesign fertig 
