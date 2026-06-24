@@ -1,4 +1,5 @@
 # egl1_Kartenspiel: THE DECK OF FOUR TALES
+<img width="3000" height="2250" alt="Free_Playing_Cards_Mockup_2" src="https://github.com/user-attachments/assets/9e44130e-f640-45a0-b53e-d96b50ca04d0" />
 
 **Gestaltung eines klassischen Kartenspieles mit animierten Effekten (Daumenkino / stop motion style)**
 
