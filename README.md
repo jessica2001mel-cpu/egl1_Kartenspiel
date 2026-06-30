@@ -1,5 +1,5 @@
 # egl1_Kartenspiel: THE DECK OF FOUR TALES
-<img width="3000" height="2250" alt="Free_Playing_Cards_Mockup_2" src="https://github.com/user-attachments/assets/9e44130e-f640-45a0-b53e-d96b50ca04d0" />
+<img width="3024" height="4032" alt="IMG_3535" src="https://github.com/user-attachments/assets/3af18615-10c3-4c73-9b2e-7287abf89a31" />
 
 **Gestaltung eines klassischen Kartenspieles mit animierten Effekten (Daumenkino / stop motion style)**
 
@@ -30,7 +30,7 @@ Illustrationsstil im fineline / handdrawn style
 - **Kreuz** = Zwei Schwerter kreuzen sich
 
 *Bedeutung:*
-THE DECK OF FOUR TALES: Jedes einzelen Symbol hat eine eigene Geschichte
+THE DECK OF FOUR TALES: Jedes einzelen Symbol hat seine eigene Geschichte
 
 **Bildkarten:**
 <img width="3749" height="7014" alt="Kartendesign_EGL Projekt 2-56" src="https://github.com/user-attachments/assets/a5bca6f4-e903-4c5d-a3b6-1e7766bed32c" />
@@ -44,12 +44,6 @@ THE DECK OF FOUR TALES: Jedes einzelen Symbol hat eine eigene Geschichte
 **Verpackungsdesign**
 <img width="2067" height="2445" alt="Verpackungsgestaltung_DRUCK" src="https://github.com/user-attachments/assets/d69a8c3a-28d4-4a14-9675-a6810973104d" />
 
-**Aktueller Stand:**
-Warten auf Bestellung 
-
-**noch kommende to do's:**
-Kartenanimation als Video 
-Fotoshooting von Kartenspiel 
 
 
 
