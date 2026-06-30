@@ -1,6 +1,58 @@
-Bei „the deck of four tales" geht es um ein Kartenset das sich von dem klassischen Kartendeck abhebt. 
-Denn neben der Gestaltung selbst, sind in kleine analoge Animationen versteckt, die mit dem Prinzip des Augenkinos zu sehen sind. 
-Der Name stammt von den vier Symbolkarten Pik, Karo, Herz und Kreuz, die jeweils eine eigene Story durch dieses Daumenkino erhalten. 
+**Zusammenfassung** 
+The Deck of Four Tales ist ein experimentelles Kartenspiel, das das klassische Spielkartendeck um eine interaktive Ebene erweitert. 
+Im Mittelpunkt steht die Verbindung von analoger Illustration und Bewegung: 
+Durch das schnelle Durchblättern der Karten entstehen kleine Animationen nach dem Prinzip des Daumenkinos (Flipbook), wodurch das Kartenset selbst zum Erzähler wird.
 
-Der Stil ist dabei ein mehr skizzen Stil, der durch einfache Zeichnung entstanden ist. 
-KI hat mir dabei geholfen diesen Stil bei allein Figuren gleich zu behalten. 
+Der Name The Deck of Four Tales bezieht sich auf die vier klassischen Kartensymbole – Herz, Karo, Kreuz und Pik. 
+Jedes Symbol erzählt durch eine eigene Animation eine kurze Geschichte und verleiht dem Kartenspiel eine zusätzliche narrative Ebene. 
+So kommen sich bei Herz zwei Figuren näher und küssen sich, bei Karo öffnet sich eine Schatztruhe, bei Kreuz kreuzen sich zwei Schwerter 
+und bei Pik dreht sich eine Sanduhr.
+
+Das Deck besteht aus insgesamt 55 Karten, darunter Zahlenkarten, Bildkarten, Asse, Joker sowie eine Deckkarte und eine gestaltete Verpackung. 
+Trotz der klassischen Kartenstruktur wurde jede Karte so gestaltet, dass sie Teil einer fließenden Animation ist.
+
+Der Illustrationsstil orientiert sich an handgezeichneten Skizzen mit einer feinen Linienführung (Fineline). 
+Um die Figuren und Illustrationen über alle Animationsphasen hinweg konsistent zu halten, wurde Künstliche Intelligenz als 
+unterstützendes Werkzeug bei den Charakteren eingesetzt. 
+Die finale Ausarbeitung sowie die Gestaltung und Animation der Zahlenkarten wurden anschließend selber weiterentwickelt und verfeinert.
+
+Das Projekt verbindet traditionelles Spieldesign mit analoger Animation und zeigt, 
+wie sich alltägliche Objekte durch Bewegung und Storytelling neu interpretieren lassen.
+
+**Projektaufbau:**
+Zu Beginn des Projekts stand eine erste Recherche im Vordergrund. Dabei habe ich mich mit verschiedenen Fragen auseinandergesetzt: 
+Welche Art von Kartenspiel möchte ich gestalten? Wie viele Karten umfasst ein klassisches Deck? Welche Bestandteile müssen enthalten sein? 
+Und wo kann ich das Kartenset später in guter Qualität drucken lassen?
+Nach dieser Recherche habe ich mich für ein eher klares und reduziertes Grunddesign entschieden. Für die Farbwelt wählte ich eine Kombination 
+aus dunklem Rot, gedecktem Blau und einem pastelligen Gelb. Diese Farben bilden einen ruhigen, aber dennoch spannenden Kontrast zu den 
+skizzenhaften Figuren und Elementen, die das Kartendeck prägen sollten.
+
+Für den Illustrationsstil entschied ich mich bewusst für einen Scribble- beziehungsweise Skizzenstil. Einerseits entspricht 
+dieser Stil meiner eigenen zeichnerischen Arbeitsweise, andererseits wollte ich mich damit von klassischen Kartendecks abheben, 
+die häufig sehr bunt, ornamental und detailreich gestaltet sind. Durch die reduzierten, handgezeichneten Figuren entsteht
+ein eigenständiger visueller Charakter.
+
+Die ersten gestalterischen Schritte bestanden darin, Typografie, Farben und das grundlegende Layout der Karten festzulegen. Anschließend entwickelte 
+ich das Grunddesign, auf dem alle weiteren Karten aufbauen. Bei der Umsetzung der Figuren und Symbole wurde schnell deutlich, dass der zeitliche 
+Rahmen des Projekts eine große Herausforderung darstellt. Deshalb entschied ich mich dazu, zunächst eine Figur selbst zu zeichnen und diese anschließend mithilfe von KI in weitere Charaktere wie König, Bube oder Joker übertragen zu lassen. Nach mehreren Versuchen und durch den Einsatz von Referenzbildern konnte ich dadurch einen einheitlichen Figurenstil erreichen.
+Die animierten Inhalte der Symbolkarten für Pik, Karo und Kreuz habe ich selbst und ohne KI-Unterstützung gestaltet. Beim Symbol Herz habe ich erneut 
+KI als unterstützendes Werkzeug genutzt, um die Figuren konsistent weiterzuentwickeln. Die finale Auswahl, Anpassung und gestalterische Einbindung 
+der Ergebnisse erfolgte jedoch weiterhin manuell.
+
+Der Name The Deck of Four Tales entstand aus dem zentralen Konzept des Projekts: Jedes der vier Kartensymbole besitzt eine eigene 
+Abfolge von Bildern, die beim Durchblättern als Daumenkino sichtbar wird. Dadurch erzählen Herz, Karo, Kreuz und Pik jeweils 
+ihre eigene kleine Geschichte.
+
+Insgesamt verlief der Gestaltungsprozess sehr intuitiv und motivierend. Eine der größten Herausforderungen lag weniger in der Illustration 
+selbst, sondern in der technischen Vorbereitung für den Druck, insbesondere bei den richtigen Farbeinstellungen und Druckprofilen. 
+Das Kartenspiel ließ ich schließlich über MeinSpiel.de produzieren. Die Bedienung war unkompliziert und die Druckqualität überzeugend.
+Rückblickend hat mir das Projekt sehr viel Spaß gemacht und mein Interesse an analoger Animation weiter verstärkt. 
+Besonders spannend war für mich die Verbindung eines klassischen Spielobjekts mit kleinen bewegten Geschichten. 
+
+Gleichzeitig zeigte der erste Prototyp auch einige Punkte, die ich in einer weiteren Version verbessern würde: 
+Auf der gedrehten Kartenseite sind Zahlen und Buchstaben versehentlich falsch herum ausgerichtet. Dieser Fehler fiel mir erst 
+nach dem Druck auf. Außerdem wäre ein etwas dünneres Kartenmaterial besser geeignet gewesen, da sich das Deck dadurch leichter 
+wie ein Daumenkino durchblättern ließe.
+
+
+
